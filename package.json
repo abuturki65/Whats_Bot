@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WhatsBotAR/Whats_Bot.git"
+    "url": "git+https://github.com/abuturki65/Whats_Bot.git"
   },
   "keywords": [
     "whatsapp",
@@ -28,9 +28,9 @@
   "developer": "AsenaDev / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/WhatsBotAR/Whats_Bot/issues"
+    "url": "https://github.com/abuturki/Whats_Bot/issues"
   },
-  "homepage": "https://github.com/WhatsBotAR/Whats_Bot#readme",
+  "homepage": "https://github.com/abuturki/Whats_Bot#readme",
   "dependencies": {
     "whatsasena-npm": "^1.3.0"
   }
